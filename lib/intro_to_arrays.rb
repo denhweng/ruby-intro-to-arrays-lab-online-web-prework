@@ -8,17 +8,17 @@ def array_with_two_elements
   return array 
 end
 
-def first_element(taylorswift)
-  taylorswift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  return taylorswift(0)
+def first_element(taylor_swift)
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  return taylor_swift(0)
 end
 
-def third_element(taylorswift)
-  taylorswift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  return taylorswift(2)
+def third_element(taylor_swift)
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  return taylor_swift(2)
 end
 
-def last_element(taylorswift)
-  taylorswift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  return taylorswift(-1)
+def last_element(taylor_swift)
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  return taylor_swift(-1)
 end
