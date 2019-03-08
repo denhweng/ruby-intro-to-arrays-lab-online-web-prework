@@ -1,4 +1,4 @@
 def instantiate_new_array
-  array = ["I", "am", "learning", "Ruby"]
+  array = []
   return array
 end
