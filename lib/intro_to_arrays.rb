@@ -1,3 +1,4 @@
 def my_new_array
-  my_new_array = ["I", "am", "learning", "Ruby"]
+  array = ["I", "am", "learning", "Ruby"]
+  return 
 end
