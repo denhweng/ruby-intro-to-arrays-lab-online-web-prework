@@ -28,6 +28,6 @@ def first_element_with_array_methods(south_east_asia)
   return south_east_asia.first
 end
 
-def first_element_with_array_methods(south_east_asia)
+def last_element_with_array_methods(south_east_asia)
   return south_east_asia.last
 end
