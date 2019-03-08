@@ -34,6 +34,4 @@ end
 
 programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
 
-def length_of_an_array(programming_languages)
-  programming_languages.length
-end
+return programming_languages.length 
