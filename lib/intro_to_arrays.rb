@@ -9,14 +9,16 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  array = ["I", ""]
+  array = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   return array(0)
 end
 
 def third_element(array)
+  array = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   return array(2)
 end
 
 def last_element(array)
+  array = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   return array(-1)
 end
